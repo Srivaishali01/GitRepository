@@ -1,1 +1,1 @@
-This is the example file
+Changes made in example.txt
