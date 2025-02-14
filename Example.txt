@@ -1,6 +1,7 @@
-Changes made in example.txt
-Hello chucks
-Hii
+Changes 
+Modified
+xxxxx
+Example.txt
 @@@@@24 
 power shell
-chunks of code
+chunks of codey
